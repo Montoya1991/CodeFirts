@@ -1,0 +1,87 @@
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\appsettings.Development.json
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\appsettings.json
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.staticwebassets.runtime.json
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.exe
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.deps.json
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.runtimeconfig.json
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Code First.pdb
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Azure.Core.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Azure.Identity.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Humanizer.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.CodeDom.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Text.Json.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Avalon solo mvc\Code First\Code First\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.csproj.AssemblyReference.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.AssemblyInfoInputs.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.AssemblyInfo.cs
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.csproj.CoreCompileInputs.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.MvcApplicationPartsAssemblyInfo.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.RazorAssemblyInfo.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.RazorAssemblyInfo.cs
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets\msbuild.Code First.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets\msbuild.build.Code First.props
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Code First.props
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Code First.props
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets.build.json
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\staticwebassets.development.json
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\scopedcss\bundle\Code First.styles.css
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\scopedcss\projectbundle\Code First.bundle.scp.css
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.csproj.CopyComplete
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.dll
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\refint\Code First.dll
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.pdb
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\Code First.genruntimeconfig.cache
+D:\Avalon solo mvc\Code First\Code First\obj\Debug\net6.0\ref\Code First.dll
